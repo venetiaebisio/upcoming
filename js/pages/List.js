@@ -87,7 +87,7 @@ export default {
                     </div>
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList
-                         hello there </a></p>
+                 </a></p>
                     </div>
                     <template v-if="editors">
                         <h3>List Editors</h3>
